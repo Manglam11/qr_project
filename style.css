@@ -42,6 +42,20 @@ body {
     border-radius: 10px;
 }
 
+.div-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0px 20px 0px 20px;
+    margin: 10px 0;
+}
+
+.side-heading {
+    font-weight: 700;
+    margin-top: 10px;
+    /* padding: 100px; */
+}
 
 .div-3 {
     display: flex;
@@ -57,19 +71,4 @@ body {
     margin-top: 10px;
     padding: 10px 30px;
 
-}
-
-.div-2 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 0px 20px 0px 20px;
-    margin: 10px 0;
-}
-
-.side-heading {
-    font-weight: 700;
-    margin-top: 10px;
-    /* padding: 100px; */
 }
